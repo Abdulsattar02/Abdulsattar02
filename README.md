@@ -1,40 +1,79 @@
-# Hi, I'm Abdul Sattar 👋
+# Hi there, I'm Abdul Sattar 👋 <img src="https://giphy.com" width="35">
 
-### Full Stack Developer | AI & Automation | Software Engineering
+<p align="left">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
-I'm an Information Technology graduate from the University of Sindh, Mirpurkhas Campus, focused on building practical web applications, business software, and AI-powered solutions.
-
-I enjoy solving real-world problems through clean code, thoughtful design, API integration, databases, testing, and debugging.
-
-### 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** SQL, MySQL
-- **Tools:** Git, GitHub, VS Code, WordPress
-- **Interests:** AI integration, automation, software engineering, and reliable applications
-
-### 🚀 Featured Projects
-
-- **[SmartTalkAI](https://github.com/Abdulsattar02/SmartTalkAi)** — An AI-focused web application project.
-- **[TereWeb](https://github.com/Abdulsattar02/tereweb1)** — A web development project with a live demo available on [Vercel](https://tereweb1.vercel.app/).
-- **Automatic Writing & Drawing Machine** — My final-year project combining web/AI integration with an Arduino-based drawing system.
-- **Business Management Applications** — Experience working on inventory, sales, purchases, ledgers, reporting, and offline-first workflows. Private client projects are not publicly shared where confidentiality applies.
-
-### 🌱 Currently Growing In
-
-- Full-stack application development
-- AI-assisted development and practical automation
-- Testing, debugging, and production reliability
-
-### 🤝 Connect With Me
-
-- **LinkedIn:** [Abdul Sattar](https://www.linkedin.com/in/abdul-sattar-1321a5242/)
-- **GitHub:** [@Abdulsattar02](https://github.com/Abdulsattar02)
-- **Email:** abdulsattarmaher20@gmail.com
-
-I enjoy learning, building useful products, and collaborating on meaningful technology projects.
+I'm an **Information Technology graduate** from the *University of Sindh, Mirpurkhas Campus*. I focus on building practical web applications, business software, and AI-powered automation solutions. I enjoy solving real-world problems through clean code, thoughtful design, and robust debugging.
 
 ---
 
-*Build. Learn. Improve. Repeat.*
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" />
+      <br />
+      <sub><b>Frontend</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" />
+      <br />
+      <sub><b>Backend</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" />
+      <br />
+      <sub><b>Database</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" />
+      <br />
+      <sub><b>Tools & CMS</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+- **🧠 SmartTalkAI** – An AI-focused web application project designed for intelligent interactions.
+- **🌐 TorcWeb** – A full-scale web development project featuring a live deployment on Vercel.
+- **✏️ Automatic Writing & Drawing Machine** – A hardware-software hybrid capstone project merging Arduino with web/AI components.
+- **💼 Business Management Applications** – Inventory tracking, sales dashboards, and offline-first workflows built for operational clarity.
+
+---
+
+### 📊 My GitHub Analytics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Abdul Sattar's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://shields.io" alt="Facebook" />
+  </a>
+  <a href="mailto:abdulsattarmonoo92@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+<p align="center"><i>Build. Learn. Improve. Repeat. 🚀</i></p>
