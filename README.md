@@ -7,13 +7,16 @@ I'm an **Information Technology graduate** from the *University of Sindh, Mirpur
 ### 🛠️ Tech Stack & Tools
 
 **Frontend:**
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Bootstrap](https://shields.io) ![TailwindCSS](https://shields.io)
+- HTML5 / CSS3 / JavaScript
+- React / Bootstrap / TailwindCSS
 
 **Backend & Database:**
-![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io)
+- Node.js / Express.js
+- MySQL / PostgreSQL
 
 **Tools & CMS:**
-![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![WordPress](https://shields.io)
+- Git / GitHub
+- VS Code / WordPress
 
 ---
 
@@ -28,17 +31,17 @@ I'm an **Information Technology graduate** from the *University of Sindh, Mirpur
 
 ### 📊 My GitHub Analytics
 
-![Abdul Sattar's GitHub Stats](https://vercel.app)
+Aapke commits aur language stats yahan real-time me aapki main public profile par render honge:
 
-![Top Languages](https://vercel.app)
+https://vercel.app
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-[![Facebook](https://shields.io)](https://facebook.com)
-[![Email](https://shields.io)](mailto:abdulsattarmonoo92@gmail.com)
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **Instagram:** [@a.sattar01](https://instagram.com)
+- **Facebook:** [Abdul Sattar](https://facebook.com)
+- **Email:** abdulsattarmonoo92@gmail.com
 
 <p align="center"><i>Build. Learn. Improve. Repeat. 🚀</i></p>
