@@ -1,8 +1,4 @@
-# Hi there, I'm Abdul Sattar 👋 <img src="https://giphy.com" width="35">
-
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+# Hi there, I'm Abdul Sattar 👋
 
 I'm an **Information Technology graduate** from the *University of Sindh, Mirpurkhas Campus*. I focus on building practical web applications, business software, and AI-powered automation solutions. I enjoy solving real-world problems through clean code, thoughtful design, and robust debugging.
 
@@ -10,30 +6,14 @@ I'm an **Information Technology graduate** from the *University of Sindh, Mirpur
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" />
-      <br />
-      <sub><b>Frontend</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" />
-      <br />
-      <sub><b>Backend</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" />
-      <br />
-      <sub><b>Database</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" />
-      <br />
-      <sub><b>Tools & CMS</b></sub>
-    </td>
-  </tr>
-</table>
+**Frontend:**
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Bootstrap](https://shields.io) ![TailwindCSS](https://shields.io)
+
+**Backend & Database:**
+![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io)
+
+**Tools & CMS:**
+![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![WordPress](https://shields.io)
 
 ---
 
@@ -48,32 +28,17 @@ I'm an **Information Technology graduate** from the *University of Sindh, Mirpur
 
 ### 📊 My GitHub Analytics
 
-<p align="left">
-  <img src="https://vercel.app" alt="Abdul Sattar's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
+![Abdul Sattar's GitHub Stats](https://vercel.app)
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+![Top Languages](https://vercel.app)
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
-  </a>
-  <a href="mailto:abdulsattarmonoo92@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Instagram](https://shields.io)](https://instagram.com)
+[![Facebook](https://shields.io)](https://facebook.com)
+[![Email](https://shields.io)](mailto:abdulsattarmonoo92@gmail.com)
 
 <p align="center"><i>Build. Learn. Improve. Repeat. 🚀</i></p>
