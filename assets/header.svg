@@ -57,7 +57,7 @@
       <text x="42" y="100"><tspan fill="#7DD3FC">role</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"Full Stack"</tspan><tspan fill="#E2E8F0">,</tspan></text>
       <text x="42" y="126"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#E2E8F0">: [</tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#86EFAC">"Node"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#86EFAC">"SQL"</tspan><tspan fill="#E2E8F0">],</tspan></text>
       <text x="42" y="152"><tspan fill="#7DD3FC">focus</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"AI &amp; Automation"</tspan><tspan fill="#E2E8F0">,</tspan></text>
-      <text x="42" y="178"><tspan fill="#7DD3FC">at</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"Parix.AI, Karachi"</tspan><tspan fill="#E2E8F0"> };</tspan></text>
+      <text x="42" y="178"><tspan fill="#7DD3FC">at</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"Parix.AI"</tspan><tspan fill="#E2E8F0"> };</tspan></text>
     </g>
   </g>
 </svg>

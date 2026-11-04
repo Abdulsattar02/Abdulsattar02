@@ -15,10 +15,10 @@
 
 I'm a **Full Stack Developer** and an **Information Technology graduate** from the *University of Sindh, Mirpurkhas Campus*. I build practical software for real businesses: AI-powered web products, offline-first desktop systems, and the integrations that connect them.
 
-- 💼 &nbsp;Full Stack Developer at **Parix.AI**, Karachi, on AI products like **[ActionMind AI](https://meetactionmind.com)** and client systems
+- 💼 &nbsp;Full Stack Developer at **Parix.AI**, contributing to AI products and client systems
 - 🧩 &nbsp;Frontend to backend: React and Next.js UIs, Node.js APIs, PostgreSQL / SQLite / MySQL data
-- 🔌 &nbsp;Third-party integrations: Jira, Notion, Slack, Google Workspace, Microsoft 365, Stripe
-- 🤖 &nbsp;LLM APIs in real products, and AI tools to ship and debug faster
+- 🖥️ &nbsp;Offline-first desktop apps with cloud sync for real businesses
+- 🤖 &nbsp;LLM APIs and AI automation in real products, and AI tools to ship and debug faster
 - 🤝 &nbsp;Open to freelance projects and collaborations
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="40" alt="Node.js, Express.js" /> &nbsp;<code>REST APIs</code> <code>WebSockets</code> <code>OAuth</code></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="40" alt="Node.js, Express.js" /> &nbsp;<code>REST APIs</code> <code>OAuth 2.1</code> <code>NestJS</code></td>
   </tr>
   <tr>
     <td><b>Database</b></td>
@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
   </tr>
   <tr>
     <td><b>AI</b></td>
-    <td><code>OpenAI API</code> <code>Claude API</code> <code>OpenRouter</code> <code>MCP</code> <code>AI Automation</code></td>
+    <td><code>Claude API</code> <code>OpenRouter</code> <code>MCP</code> <code>AI Automation</code></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -60,23 +60,6 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎙️ ActionMind AI</h4>
-      <p>AI meeting assistant that turns meetings into approved follow-ups: emails, calendar events, Jira issues, Notion and Sheets rows, and Slack messages, sent from each user's own accounts.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code> <code>OpenAI</code> <code>Stripe</code></p>
-      <details>
-        <summary><b>Case study</b></summary>
-        <p><b>Problem:</b> Decisions made in meetings get lost, and someone has to do every follow-up by hand.</p>
-        <p><b>My work:</b></p>
-        <ul>
-          <li>Connector framework plus Slack, Notion, Jira, Google Sheets/Drive and Microsoft 365 integrations</li>
-          <li>New React web app on the API, onboarding flow and lifecycle emails</li>
-          <li>Live meetings that survive a server restart, with state in PostgreSQL</li>
-          <li>Admin console: Stripe billing views, support access, TOTP two-factor sign-in</li>
-        </ul>
-      </details>
-      <a href="https://meetactionmind.com"><b>Website</b></a> · <sub>Private source</sub>
-    </td>
     <td width="50%" valign="top">
       <h4>⚖️ Law-Firm Lead Automation</h4>
       <p>AI lead-automation platform for an immigration law firm: leads from many channels, AI intake under strict guardrails, CRM handoff, timed reminders, and a KPI dashboard.</p>
@@ -94,8 +77,6 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
       </details>
       <sub>Client project · Private source</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>⛽ Filling Station Management System</h4>
       <p>Offline-first Windows desktop system for a two-branch fuel station. Sales come from pump meter readings, so staff record only credit; cash is calculated.</p>
@@ -113,6 +94,8 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
       </details>
       <sub>Client project · Private source</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>📒 Commission Shop Ledger &amp; Inventory</h4>
       <p>Offline desktop accounting app for a wholesale commission shop, modelled on the traditional Sindhi/Urdu <i>khata</i> account book.</p>
@@ -130,8 +113,6 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
       </details>
       <sub>Client project · Private source</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>✅ Task Management &amp; OKR Tool</h4>
       <p>Internal project-management and OKR platform for a client team: boards, timeline, calendar, tasks, and objectives.</p>
@@ -148,7 +129,9 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
       </details>
       <sub>Client project · Private source</sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>🌐 WordPress Development</h4>
       <p>Business and institutional websites built and maintained on WordPress.</p>
       <p><code>WordPress</code> <code>PHP</code> <code>ACF</code> <code>Elementor</code> <code>Divi</code></p>
@@ -165,6 +148,8 @@ I'm a **Full Stack Developer** and an **Information Technology graduate** from t
     </td>
   </tr>
 </table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ### Public Projects
 
